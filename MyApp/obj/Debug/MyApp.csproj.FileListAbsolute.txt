@@ -1,0 +1,11 @@
+D:\Raven\Practice Exercise\C#\MyApp\bin\Debug\MyApp.exe.config
+D:\Raven\Practice Exercise\C#\MyApp\bin\Debug\MyApp.exe
+D:\Raven\Practice Exercise\C#\MyApp\bin\Debug\MyApp.pdb
+D:\Raven\Practice Exercise\C#\MyApp\bin\Debug\TheLibrary.dll
+D:\Raven\Practice Exercise\C#\MyApp\bin\Debug\TheLibrary.pdb
+D:\Raven\Practice Exercise\C#\MyApp\obj\Debug\MyApp.csproj.AssemblyReference.cache
+D:\Raven\Practice Exercise\C#\MyApp\obj\Debug\MyApp.csproj.SuggestedBindingRedirects.cache
+D:\Raven\Practice Exercise\C#\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+D:\Raven\Practice Exercise\C#\MyApp\obj\Debug\MyApp.csproj.CopyComplete
+D:\Raven\Practice Exercise\C#\MyApp\obj\Debug\MyApp.exe
+D:\Raven\Practice Exercise\C#\MyApp\obj\Debug\MyApp.pdb

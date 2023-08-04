@@ -1,0 +1,6 @@
+D:\Raven\Practice Exercise\C#\TheLibrary\bin\Debug\TheLibrary.dll
+D:\Raven\Practice Exercise\C#\TheLibrary\bin\Debug\TheLibrary.pdb
+D:\Raven\Practice Exercise\C#\TheLibrary\obj\Debug\TheLibrary.csproj.AssemblyReference.cache
+D:\Raven\Practice Exercise\C#\TheLibrary\obj\Debug\TheLibrary.csproj.CoreCompileInputs.cache
+D:\Raven\Practice Exercise\C#\TheLibrary\obj\Debug\TheLibrary.dll
+D:\Raven\Practice Exercise\C#\TheLibrary\obj\Debug\TheLibrary.pdb
